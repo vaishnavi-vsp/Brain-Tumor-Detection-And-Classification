@@ -30,7 +30,7 @@
   </p>
 
 
-<p>Through our website 'BTD', we can precisely automate the process of detecting whether a brain tumor is present in a patient or not, while simultaneously accompanying it with an easy-to-use user interface (for the doctor + patient), hospitals and patients will be able to simplify their workflow for detecting anomalies much earlier and will be able to capture it with precision without having to sacrifice accuracy. This automated detection technique leads to accurate, efficient and cost-effective detection of brain tumors whilst alleviating the bottleneck of limited diagnosis time for doctors.  
+<p>Through our website 'BTD', we can precisely automate the process of detecting whether a brain tumor is present in a patient or not, while simultaneously accompanying it with an easy-to-use user interface (for the doctor + patient), hospitals and patients will be able to simplify their workflow for detecting anomalies much earlier and will be able to capture it with precision without having to sacrifice accuracy. If the presence of tumor is detected, it is then classified into ‘Glioma’, ‘Pituitary’ or ‘Meningioma’.  This automated detection technique leads to accurate, efficient and cost-effective detection of brain tumors whilst alleviating the bottleneck of limited diagnosis time for doctors.  
 </p>
 
 <p><strong>Link to Backend Model:</strong>
